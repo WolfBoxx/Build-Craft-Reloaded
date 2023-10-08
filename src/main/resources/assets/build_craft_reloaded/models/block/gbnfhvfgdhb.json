@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "build_craft_reloaded:block/tin_ore",
+    "up": "build_craft_reloaded:block/copper_block1",
+    "north": "build_craft_reloaded:block/silver_ore",
+    "east": "build_craft_reloaded:block/copper_block1",
+    "south": "build_craft_reloaded:block/tin_ore",
+    "west": "build_craft_reloaded:block/tin_ore",
+    "particle": "build_craft_reloaded:block/tin_ore"
+  },
+  "render_type": "solid"
+}
