@@ -182,6 +182,22 @@
         ]
       },
       "path": "~/Silver "
+    },
+    {
+      "name": "Tes",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tes",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/blockstates/tes.json",
+          "src/main/resources/assets/build_craft_reloaded/models/item/tes.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/block/TesBlock.java",
+          "src/main/resources/assets/build_craft_reloaded/models/block/tes.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -195,6 +211,7 @@
       "advancements.send_reinforcements.descr": "Smelt Iron again",
       "item.build_craft_reloaded.copper_pickaxe": "Copper Pickaxe",
       "item.build_craft_reloaded.reinforcediron": "Reinforced Iron",
+      "block.build_craft_reloaded.tes": "Tes",
       "block.build_craft_reloaded.silverore": "Silverore",
       "block.build_craft_reloaded.tin_ore": "Tin Ore",
       "item_group.build_craft_reloaded.build_craft_reloaded": "Build Craft Reloaded"

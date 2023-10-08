@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "build_craft_reloaded:block/copper_block1",
+    "up": "build_craft_reloaded:block/copper_block1",
+    "north": "build_craft_reloaded:block/copper_block1",
+    "east": "build_craft_reloaded:block/copper_block1",
+    "south": "build_craft_reloaded:block/copper_block1",
+    "west": "build_craft_reloaded:block/copper_block1",
+    "particle": "build_craft_reloaded:block/copper_block1"
+  },
+  "render_type": "solid"
+}
