@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "build_craft_reloaded:item/copper_pickaxe"
+  }
+}

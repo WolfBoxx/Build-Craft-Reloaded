@@ -1,0 +1,243 @@
+{
+  "mod_elements": [
+    {
+      "name": "Reinforcediron",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcediron",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/item/reinforcediron.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/item/ReinforcedironItem.java"
+        ]
+      },
+      "path": "~/ReIron"
+    },
+    {
+      "name": "Reinforcedironrecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedironrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/build_craft_reloaded/recipes/reinforcedironrecipe.json"
+        ]
+      },
+      "path": "~/ReIron"
+    },
+    {
+      "name": "BuildCraftReloaded",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "build_craft_reloaded",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "CopperPickaxe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/item/copper_pickaxe.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/item/CopperPickaxeItem.java"
+        ]
+      },
+      "path": "~/copper"
+    },
+    {
+      "name": "CopperPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_pickaxe_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/build_craft_reloaded/recipes/copper_pickaxe_recipe.json"
+        ]
+      },
+      "path": "~/copper"
+    },
+    {
+      "name": "SendReinforcements",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "send_reinforcements",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/build_craft_reloaded/advancements/send_reinforcements.json"
+        ]
+      }
+    },
+    {
+      "name": "RawTin",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raw_tin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/buildcraftreloaded/item/RawTinItem.java",
+          "src/main/resources/assets/build_craft_reloaded/models/item/raw_tin.json"
+        ]
+      },
+      "path": "~/tin"
+    },
+    {
+      "name": "TinOre",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ore",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/block/tin_ore.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/world/features/ores/TinOreFeature.java",
+          "src/main/resources/data/build_craft_reloaded/worldgen/configured_feature/tin_ore.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/block/TinOreBlock.java",
+          "src/main/resources/data/build_craft_reloaded/forge/biome_modifier/tin_ore_biome_modifier.json",
+          "src/main/resources/assets/build_craft_reloaded/models/item/tin_ore.json",
+          "src/main/resources/data/build_craft_reloaded/worldgen/placed_feature/tin_ore.json",
+          "src/main/resources/assets/build_craft_reloaded/blockstates/tin_ore.json"
+        ]
+      },
+      "path": "~/tin"
+    },
+    {
+      "name": "TinIngot",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tin_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/item/tin_ingot.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/item/TinIngotItem.java"
+        ]
+      },
+      "path": "~/tin"
+    },
+    {
+      "name": "Tiningotrecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tiningotrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/build_craft_reloaded/recipes/tiningotrecipe.json"
+        ]
+      },
+      "path": "~/tin"
+    },
+    {
+      "name": "Rawsilver",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rawsilver",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/item/rawsilver.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/item/RawsilverItem.java"
+        ]
+      },
+      "path": "~/Silver "
+    },
+    {
+      "name": "Silverore",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silverore",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/buildcraftreloaded/world/features/ores/SilveroreFeature.java",
+          "src/main/resources/data/build_craft_reloaded/forge/biome_modifier/silverore_biome_modifier.json",
+          "src/main/resources/assets/build_craft_reloaded/blockstates/silverore.json",
+          "src/main/resources/assets/build_craft_reloaded/models/item/silverore.json",
+          "src/main/resources/data/build_craft_reloaded/worldgen/configured_feature/silverore.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/block/SilveroreBlock.java",
+          "src/main/resources/assets/build_craft_reloaded/models/block/silverore.json",
+          "src/main/resources/data/build_craft_reloaded/worldgen/placed_feature/silverore.json"
+        ]
+      },
+      "path": "~/Silver "
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.send_reinforcements.title": "Really more Smelting!?",
+      "item.build_craft_reloaded.rawsilver": "Rawsilver",
+      "item.build_craft_reloaded.raw_tin": "Raw Tin",
+      "item.build_craft_reloaded.tin_ingot": "Tin Ingot",
+      "advancements.send_reinforcements.descr": "Smelt Iron again",
+      "item.build_craft_reloaded.copper_pickaxe": "Copper Pickaxe",
+      "item.build_craft_reloaded.reinforcediron": "Reinforced Iron",
+      "block.build_craft_reloaded.silverore": "Silverore",
+      "block.build_craft_reloaded.tin_ore": "Tin Ore",
+      "item_group.build_craft_reloaded.build_craft_reloaded": "Build Craft Reloaded"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "tin",
+        "children": []
+      },
+      {
+        "name": "ReIron",
+        "children": []
+      },
+      {
+        "name": "copper",
+        "children": []
+      },
+      {
+        "name": "Silver ",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "build_craft_reloaded",
+    "modName": "build craft reloaded",
+    "version": "1.0.0",
+    "author": "Blehhh2_3, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.buildcraftreloaded",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

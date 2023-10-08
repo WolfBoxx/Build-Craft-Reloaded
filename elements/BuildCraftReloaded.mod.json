@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "Build Craft Reloaded",
+    "icon": {
+      "value": "CUSTOM:Reinforcediron"
+    },
+    "showSearch": true
+  }
+}

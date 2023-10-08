@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.2,
+    "cookingTime": 250,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:Reinforcediron"
+    },
+    "name": "reinforcedironrecipe",
+    "namespace": "mod"
+  }
+}

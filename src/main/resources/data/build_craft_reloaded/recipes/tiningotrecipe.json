@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "build_craft_reloaded:raw_tin"
+  },
+  "result": "build_craft_reloaded:tin_ingot"
+}

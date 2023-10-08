@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.2,
+  "cookingtime": 250,
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": "build_craft_reloaded:reinforcediron"
+}

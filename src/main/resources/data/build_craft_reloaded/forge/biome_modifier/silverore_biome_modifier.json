@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "build_craft_reloaded:silverore",
+  "step": "underground_ores"
+}
