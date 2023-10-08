@@ -182,6 +182,22 @@
         ]
       },
       "path": "~/Silver "
+    },
+    {
+      "name": "Gbnfhvfgdhb",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gbnfhvfgdhb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/item/gbnfhvfgdhb.json",
+          "src/main/resources/assets/build_craft_reloaded/models/block/gbnfhvfgdhb.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/block/GbnfhvfgdhbBlock.java",
+          "src/main/resources/assets/build_craft_reloaded/blockstates/gbnfhvfgdhb.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -197,6 +213,7 @@
       "item.build_craft_reloaded.reinforcediron": "Reinforced Iron",
       "block.build_craft_reloaded.silverore": "Silverore",
       "block.build_craft_reloaded.tin_ore": "Tin Ore",
+      "block.build_craft_reloaded.gbnfhvfgdhb": "Gbnfhvfgdhb",
       "item_group.build_craft_reloaded.build_craft_reloaded": "Build Craft Reloaded"
     }
   },
