@@ -198,6 +198,22 @@
           "src/main/resources/assets/build_craft_reloaded/models/block/tes.json"
         ]
       }
+    },
+    {
+      "name": "Gbnfhvfgdhb",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gbnfhvfgdhb",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/build_craft_reloaded/models/block/gbnfhvfgdhb.json",
+          "src/main/resources/assets/build_craft_reloaded/models/item/gbnfhvfgdhb.json",
+          "src/main/java/net/mcreator/buildcraftreloaded/block/GbnfhvfgdhbBlock.java",
+          "src/main/resources/assets/build_craft_reloaded/blockstates/gbnfhvfgdhb.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -207,21 +223,24 @@
       "advancements.send_reinforcements.title": "Really more Smelting!?",
       "item.build_craft_reloaded.rawsilver": "Rawsilver",
       "item.build_craft_reloaded.raw_tin": "Raw Tin",
+      "block.build_craft_reloaded.tin_ore": "Tin Ore",
+      "item_group.build_craft_reloaded.build_craft_reloaded": "Build Craft Reloaded",
       "item.build_craft_reloaded.tin_ingot": "Tin Ingot",
       "advancements.send_reinforcements.descr": "Smelt Iron again",
       "item.build_craft_reloaded.copper_pickaxe": "Copper Pickaxe",
       "item.build_craft_reloaded.reinforcediron": "Reinforced Iron",
-      "block.build_craft_reloaded.tes": "Tes",
-      "block.build_craft_reloaded.silverore": "Silverore",
-      "block.build_craft_reloaded.tin_ore": "Tin Ore",
-      "item_group.build_craft_reloaded.build_craft_reloaded": "Build Craft Reloaded"
+      "block.build_craft_reloaded.silverore": "Silverore"
     }
   },
   "foldersRoot": {
     "name": "~",
     "children": [
       {
-        "name": "tin",
+        "name": "copper",
+        "children": []
+      },
+      {
+        "name": "Silver ",
         "children": []
       },
       {
@@ -229,11 +248,7 @@
         "children": []
       },
       {
-        "name": "copper",
-        "children": []
-      },
-      {
-        "name": "Silver ",
+        "name": "tin",
         "children": []
       }
     ]

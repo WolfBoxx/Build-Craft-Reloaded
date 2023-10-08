@@ -26,5 +26,6 @@ public class BuildCraftReloadedModTabs {
 				tabData.accept(BuildCraftReloadedModItems.RAWSILVER.get());
 				tabData.accept(BuildCraftReloadedModBlocks.SILVERORE.get().asItem());
 				tabData.accept(BuildCraftReloadedModBlocks.TES.get().asItem());
+				tabData.accept(BuildCraftReloadedModBlocks.GBNFHVFGDHB.get().asItem());
 			}).withSearchBar().build());
 }

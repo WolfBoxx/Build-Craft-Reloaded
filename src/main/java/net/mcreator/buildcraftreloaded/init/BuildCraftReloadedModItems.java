@@ -29,6 +29,7 @@ public class BuildCraftReloadedModItems {
 	public static final RegistryObject<Item> RAWSILVER = REGISTRY.register("rawsilver", () -> new RawsilverItem());
 	public static final RegistryObject<Item> SILVERORE = block(BuildCraftReloadedModBlocks.SILVERORE);
 	public static final RegistryObject<Item> TES = block(BuildCraftReloadedModBlocks.TES);
+	public static final RegistryObject<Item> GBNFHVFGDHB = block(BuildCraftReloadedModBlocks.GBNFHVFGDHB);
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
